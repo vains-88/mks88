@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Detail Movie</string>
+    <string name="title_playing">Now Playing</string>
+    <string name="title_populer">Populer</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="aquaman">AQUAMAN</string>
+    <string name="avengers">AVENGERS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
